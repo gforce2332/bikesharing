@@ -15,8 +15,10 @@ This project consisted of presenting a business proposal using data visualizatio
 ## Results
 [Tableau Public Story](https://https://public.tableau.com/app/profile/gayle.bradford/viz/CitiBikeProposal_16562595767510/CitibikeProposal)
 
+
 This presentation was based on New York City but could be applied to other cities around the world with the appropiate data sets. 
 ![Overview](https://user-images.githubusercontent.com/98711219/176059184-e69caafd-24f4-4c84-bd3e-245a6decd609.png)
+
 
 August peak times for riders appear to be during the morning and early evening.
 ![Peak Times](https://user-images.githubusercontent.com/98711219/176060197-5d9e018d-637c-4c54-b966-ba932b5be6f6.png)
