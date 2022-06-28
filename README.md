@@ -47,4 +47,4 @@ The largest rider age group is 39 though this could potentially be an outlier an
 
 
 ## Summary
-Based on this analysis and visualize we can infer that the most common group of riders are commuters and most likely fall into the subscriber category. The data shows that males make up a larger portion of the riders and could potentially be a point of emphasis when marketing this program. 
+Based on this analysis and visualizations we can infer that the most common group of riders are commuters and most likely fall into the subscriber category. The data shows that males make up a larger portion of the riders and could potentially be a point of emphasis when marketing this program in a new city. 
