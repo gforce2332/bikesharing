@@ -26,6 +26,10 @@ August peak times for riders appear to be during the morning and early evening.
 ![Peak Times](https://user-images.githubusercontent.com/98711219/176060197-5d9e018d-637c-4c54-b966-ba932b5be6f6.png)
 
 
+Peak start times are highest at 8am and again at 5-7pm suggesting these are morning and evening rush hours. 
+![Start Times](https://user-images.githubusercontent.com/98711219/176067532-c5675a2e-b352-4afe-8bc9-cb711c205956.png)
+
+
 We see the most popular times people utilized bike sharing were from 7-9am and 5-7pm suggesting bike utilization increased during times of rush hour. We also see an uptick in rides over the weekend days. Both men and women follow the same trend with higher rides during rush hour and the weekends.
 
 ![Most Rides Male_Female](https://user-images.githubusercontent.com/98711219/176059688-01d88860-7245-4aa9-b94f-bcc320f280e9.png)
