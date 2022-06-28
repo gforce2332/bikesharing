@@ -26,7 +26,8 @@ August peak times for riders appear to be during the morning and early evening.
 ![Peak Times](https://user-images.githubusercontent.com/98711219/176060197-5d9e018d-637c-4c54-b966-ba932b5be6f6.png)
 
 
-Peak start times are highest at 8am and again at 5-7pm suggesting these are morning and evening rush hours. 
+Peak start times are highest at 8am and again at 5-7pm suggesting these are morning and evening rush hours.
+
 ![Start Times](https://user-images.githubusercontent.com/98711219/176067532-c5675a2e-b352-4afe-8bc9-cb711c205956.png)
 
 
