@@ -13,7 +13,7 @@ This project consisted of presenting a business proposal using data visualizatio
   - Tableau Public
 
 ## Results
-[Tableau Public Story](//https://public.tableau.com/app/profile/gayle.bradford/viz/CitiBikeProposal_16562595767510/CitibikeProposal)
+[Tableau Public Story](https://public.tableau.com/app/profile/gayle.bradford/viz/CitiBikeProposal_16562595767510/CitibikeProposal)
 
 
 This presentation was based on New York City but could be applied to other cities around the world with the appropiate data sets. 
