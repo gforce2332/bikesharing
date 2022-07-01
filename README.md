@@ -41,6 +41,10 @@ Males utilize the bike sharing program more often than females and subscribers c
 ![Subscribers](https://user-images.githubusercontent.com/98711219/176060019-d32befb1-041d-48d6-b848-a015c4e21452.png)
 
 
+Shorter tripduration are the clear favorite amongst both male and female riders. 
+![Tripduration](https://user-images.githubusercontent.com/98711219/176954803-c771fbb0-6823-4d9f-8086-e54f672a7c41.png)
+
+
 The largest rider age group is 39 though this could potentially be an outlier and would need further investigation. Ages 15-21 shows the largest age group with 60,000 - 70,000 rides. 
 
 ![Rides by Age](https://user-images.githubusercontent.com/98711219/176064601-5b014f9b-a898-41a0-a923-91240e6f84c0.png)
