@@ -47,4 +47,4 @@ The largest rider age group is 39 though this could potentially be an outlier an
 
 
 ## Summary
-Based on this analysis and visualizations we can infer that the most common group of riders are commuters and most likely fall into the subscriber category. The data shows that males make up a larger portion of the riders and could potentially be a point of emphasis when marketing this program in a new city. 
+Based on this analysis and visualizations we can infer that the most common group of riders are commuters and most likely fall into the subscriber category. The data shows that males make up a larger portion of the riders and could potentially be a point of emphasis when marketing this program in a new city. Additional visualizations to consider would be to analyze number of riders participating in the bikesharing program as daily commuters, leisurely riders, or one time riders. This data could be used to engage more customers or possibly convert riders to subscribers. Analyzing these categories by age would also help to understand the market better.
